@@ -17,7 +17,7 @@ This is an implementation of the following functions for bit manipulation in C:
 
 ## How to run and test
 
-The Makefile in this directory compiles your version of bits.c with
+The Makefile in this directory compiles bits.c with
 additional code to create a program (or test harness) named btest.
 
 To compile and run the btest program, type:
